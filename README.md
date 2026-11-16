@@ -65,5 +65,5 @@ The public repository is a technical case study. It is not a deployable copy of 
 
 ## Current state
 
-The private application is active project work. This public package is prepared for portfolio review and has not been published to GitHub yet. Publication remains a separate owner action.
+This public case study is published on GitHub. The private application remains active project work and stays authoritative for implementation, live configuration, and operational evidence.
 
